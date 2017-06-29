@@ -1,5 +1,5 @@
 ## :boom:Fizzbuzz:boom:
-## Week 4 Maker's Academy
+## Week 4 Maker's Academy Pre-course
 
 This challenge was an introduction to Test Driven Development(TDD)
 and Pair Programming. 
